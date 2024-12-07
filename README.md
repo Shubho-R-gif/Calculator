@@ -1,6 +1,6 @@
 <h1 style="font-size: 30px;">Responsive Calculator Web Application</h1>
 
-Overview
+## Overview
 A modern, responsive calculator application built using HTML, CSS, and JavaScript. This project offers a clean and intuitive interface for performing basic arithmetic operations while incorporating responsive design.
 
 ## Features
