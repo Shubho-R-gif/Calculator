@@ -1,4 +1,4 @@
-### Responsive Calculator Web Application
+<h1>Responsive Calculator Web Application</h1>
 
 Overview
 A modern, responsive calculator application built using HTML, CSS, and JavaScript. This project offers a clean and intuitive interface for performing basic arithmetic operations while incorporating responsive design.
@@ -23,12 +23,7 @@ A modern, responsive calculator application built using HTML, CSS, and JavaScrip
 
 ---
 ### Built With:
-<!-- HTML5 -->
-<img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/html5.svg" alt="HTML5" width="50" style="fill: #E34F26;" />
-<!-- CSS3 -->
-<img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/css3.svg" alt="CSS3" width="50" style="fill: #1572B6;" />
-<!-- JavaScript -->
-<img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/javascript.svg" alt="JavaScript" width="50" style="fill: #F7DF1E;" />
+<p align="center"> <img src="https://img.icons8.com/color/96/html-5--v1.png" alt="HTML Logo" width="60" height="60"/> <img src="https://img.icons8.com/color/96/css3.png" alt="CSS Logo" width="60" height="60"/> <img src="https://img.icons8.com/color/96/javascript--v1.png" alt="JavaScript Logo" width="60" height="60"/> </p>
 
 ## License
 
